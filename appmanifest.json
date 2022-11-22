@@ -1,6 +1,6 @@
 {
-	"name": "AffichageJDM",
-	"short_name": "AffichageJDM",
+	"name": "Jeu des Maisons",
+	"short_name": "Jeu des Maisons",
 	"description": "",
 	"start_url": "index.html",
 	"display": "fullscreen",
